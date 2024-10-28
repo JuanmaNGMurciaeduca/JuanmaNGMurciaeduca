@@ -1,4 +1,5 @@
-# <center> 🖖Greatings humans🖖</center>
+# ... 🖖Greatings humans🖖 ...
+
 
 - 👋 Hi, I’m Juanma, first-year Web Aplication Development student of MurciaEduca in Murcia, Spain
 - 👀 I’m interested in 
