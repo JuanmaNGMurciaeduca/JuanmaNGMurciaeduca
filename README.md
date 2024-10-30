@@ -33,7 +33,7 @@ Estoy en constante evolución y con ansia por aprender, es algo que disfruto y c
 - Capacidad de analisis
 - Trabajo bien en equipo
 - Me adapto con facilidad a nuevas situaciones
-[GitHub](https://github.com/JuanmaNG)| [Gmail](mailto: 3575339@alu.murciaeduca.es)
+[GitHub](https://github.com/JuanmaNG)| [Gmail](mailto:3575339@alu.murciaeduca.es)
 
 ### Hobbies:
 - Me encanta la musica, sobre todo la disco analogica y la electronica, colecciono tanto vinilo como CD.
