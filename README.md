@@ -10,7 +10,7 @@ Estoy en constante evolución y con ansia por aprender, es algo que disfruto y c
 	- **Tecnico superior en grafica publicitaria**
 - 🐣 Estudiando:
 	- **Tecnico superior de desarrollo de aplicaciones web**\
-[|Escuela de Arte de Murcia|](https://escueladeartemurcia.es/) [|IES Los Albares|](https://www.ieslosalbares.es/) [|ISFPD La Conservera|](https://sites.google.com/view/fplaconservera)
+[|Escuela de Arte de Murcia|](https://escueladeartemurcia.es/ "Escuela de Arte de Murcia") [|IES Los Albares|](https://www.ieslosalbares.es/ "IES Los Albares") [|ISFPD La Conservera|](https://sites.google.com/view/fplaconservera "ISFPD La Conservera")
 	
 ## 🧑‍🎓Y que quiero hacer cuando termine...
 
