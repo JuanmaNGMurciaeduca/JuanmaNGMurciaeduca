@@ -11,7 +11,7 @@ Estoy en constante evolución y con ansia por aprender, es algo que disfruto y c
 - 🐣 Estudiando:
 	- **Tecnico superior de desarrollo de aplicaciones web**\
 [![Escuela de Arte de Murcia](/logotipo-escuela-de-arte-murcia.png)](https://escueladeartemurcia.es/ "Escuela de Arte de Murcia")
-[|Escuela de Arte de Murcia|](https://escueladeartemurcia.es/ "Escuela de Arte de Murcia") [|IES Los Albares|](https://www.ieslosalbares.es/ "IES Los Albares") [|ISFPD La Conservera|](https://sites.google.com/view/fplaconservera "ISFPD La Conservera")
+[![IES Los Albares](\logo_albares_web_mini.png)](https://www.ieslosalbares.es/ "IES Los Albares") [![ISFPD La Conservera](\la_conservera.png)](https://sites.google.com/view/fplaconservera "ISFPD La Conservera")
 	
 ## 🧑‍🎓Y que quiero hacer cuando termine...
 
